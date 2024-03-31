@@ -1,0 +1,18 @@
+baseURL = "https://www.lilliputbbs.com"
+languageCode = 'en-us'
+theme = "coming-soon"
+
+[params]
+    title = "Lilliput BBS - Coming Soon" 
+    description = "Back to the 90's"
+    favicon = ""
+    message = "COMING SOON!" 
+    release = "April 30, 2024" 
+    background = "" 
+
+socialIcons = [
+    {name = "email", url = "sysop@lilliputbbs.com.com"},      
+    {name = "github", url = "https://github.com/andrewsjg"},    
+    {name = "linkedin", url = "https://www.linkedin.com/in/james-andrews-0339a7"},    
+] 
+
