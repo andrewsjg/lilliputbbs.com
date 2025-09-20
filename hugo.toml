@@ -3,16 +3,15 @@ languageCode = 'en-us'
 theme = "coming-soon"
 
 [params]
-    title = "Lilliput BBS - Coming Soon" 
-    description = "Back to the 90's"
-    favicon = ""
-    message = "COMING SOON!" 
-    release = "August 1, 2025" 
-    background = "" 
+title = "Lilliput BBS - Coming Soon"
+description = "Back to the 90's"
+favicon = ""
+message = "COMING SOON!"
+release = "November 1, 2025"
+background = ""
 
 socialIcons = [
-    {name = "email", url = "sysop@lilliputbbs.com"},      
-    {name = "github", url = "https://github.com/andrewsjg"},    
-    {name = "linkedin", url = "https://www.linkedin.com/in/james-andrews-0339a7"},    
-] 
-
+  { name = "email", url = "sysop@lilliputbbs.com" },
+  { name = "github", url = "https://github.com/andrewsjg" },
+  { name = "linkedin", url = "https://www.linkedin.com/in/james-andrews-0339a7" },
+]
